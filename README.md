@@ -2,7 +2,7 @@
 做这个项目的初衷：希望利用语雀作为文档编辑器，将自己写的博客可以分享到各个平台
 大致思路：将语雀的文章内容转化为Markdown,再利用Markdown提交到各个平台
 1. 将语雀文章转换为MarkDown Done
-2. 对接[我的博客](pandaer.space) TODO
+2. 对接[我的博客](https://www.pandaer.space) TODO
 3. 对接CSDN平台 TODO
 4. 对接掘金平台 TODO
 
@@ -22,7 +22,7 @@
 到此你就获取到了bookId以及docId
 
 接下来就会获取Token相关的信息，也在这个请求中
-![alt text](images/image3.png)
+![image3](images/image3.png)
 到此你就有了全部的必要信息了，就可以开始使用这个命令行工具了
 
 # 如何安装
